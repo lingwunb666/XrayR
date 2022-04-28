@@ -1,4 +1,4 @@
-module github.com/Misaka-blog/XrayR
+module github.com/lingwunb666/XrayR
 
 go 1.17
 
