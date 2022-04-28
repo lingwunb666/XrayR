@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/Misaka-blog/XrayR/common/legocmd/log"
+	"github.com/lingwunb666/XrayR/common/legocmd/log"
 	"github.com/urfave/cli"
 )
 

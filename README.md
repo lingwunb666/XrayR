@@ -53,7 +53,7 @@ A Xray backend framework that can easily support many panels.
 
 ### 一键安装
 ```
-bash <(curl -Ls https://raw.githubusercontents.com/Misaka-blog/XrayR-script/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontents.com/lingwunb666/XrayR-script/master/install.sh)
 ```
 
 ### 使用Docker部署软件
@@ -78,8 +78,6 @@ bash <(curl -Ls https://raw.githubusercontents.com/Misaka-blog/XrayR-script/mast
 [Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
 
 ## Telgram
-
-[Super AI Misaka Network LTC](https://t.me/misakanetcn)
 
 [XrayR后端讨论](https://t.me/XrayR_project)
 
